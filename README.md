@@ -3,5 +3,9 @@
 modified by Ganesh in Readme.txt in Ganesh Branch
 =======
 
+<<<<<<< HEAD
+cam change
+>>>>>>> origin/master
+=======
 cam change
 >>>>>>> origin/master
